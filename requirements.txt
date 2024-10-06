@@ -1,2 +1,2 @@
 streamlit==1.22.0
-ftplib3==0.2.1
+pyftpdlib==2.0.0
